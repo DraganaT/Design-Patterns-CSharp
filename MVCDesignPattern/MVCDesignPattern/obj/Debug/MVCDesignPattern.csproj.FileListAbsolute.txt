@@ -1,0 +1,6 @@
+c:\users\dragana\documents\visual studio 2012\Projects\MVCDesignPattern\MVCDesignPattern\bin\Debug\MVCDesignPattern.exe.config
+c:\users\dragana\documents\visual studio 2012\Projects\MVCDesignPattern\MVCDesignPattern\bin\Debug\MVCDesignPattern.exe
+c:\users\dragana\documents\visual studio 2012\Projects\MVCDesignPattern\MVCDesignPattern\bin\Debug\MVCDesignPattern.pdb
+c:\users\dragana\documents\visual studio 2012\Projects\MVCDesignPattern\MVCDesignPattern\obj\Debug\MVCDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\dragana\documents\visual studio 2012\Projects\MVCDesignPattern\MVCDesignPattern\obj\Debug\MVCDesignPattern.exe
+c:\users\dragana\documents\visual studio 2012\Projects\MVCDesignPattern\MVCDesignPattern\obj\Debug\MVCDesignPattern.pdb
