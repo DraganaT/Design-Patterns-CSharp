@@ -1,0 +1,6 @@
+c:\users\christina\documents\visual studio 2015\Projects\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+c:\users\christina\documents\visual studio 2015\Projects\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+c:\users\christina\documents\visual studio 2015\Projects\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+c:\users\christina\documents\visual studio 2015\Projects\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\christina\documents\visual studio 2015\Projects\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+c:\users\christina\documents\visual studio 2015\Projects\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb
