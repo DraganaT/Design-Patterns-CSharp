@@ -5,3 +5,6 @@ C:\Users\Christina\Documents\GitHub\Design-Patterns-C-\ObserverDesignPattern\Obs
 C:\Users\Christina\Documents\GitHub\Design-Patterns-C-\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.pdb
 C:\Users\Christina\Documents\GitHub\Design-Patterns-C-\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
 C:\Users\Christina\Documents\GitHub\Design-Patterns-C-\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb
+C:\Users\Dragana\Documents\GitHub\Design-Patterns-CSharp\ObserverDesignPattern\ObserverDesignPattern\bin\Debug\ObserverDesignPattern.exe.config
+C:\Users\Dragana\Documents\GitHub\Design-Patterns-CSharp\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.exe
+C:\Users\Dragana\Documents\GitHub\Design-Patterns-CSharp\ObserverDesignPattern\ObserverDesignPattern\obj\Debug\ObserverDesignPattern.pdb
